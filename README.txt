@@ -1,0 +1,1 @@
+This tool allow the user to easily rename, search and replace, add prefix, postfix to multiple objects.
